@@ -17,18 +17,12 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Wod-IS-gP7">
-                                <rect key="frame" x="16" y="75" width="361" height="362"/>
+                                <rect key="frame" x="16" y="75.000000000000028" width="361" height="362.66666666666674"/>
                                 <color key="backgroundColor" systemColor="systemGreenColor"/>
-                                <constraints>
-                                    <constraint firstAttribute="width" secondItem="Wod-IS-gP7" secondAttribute="height" multiplier="361:362" id="wNK-VT-YjH"/>
-                                </constraints>
                             </view>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Sen-xS-Cfa">
-                                <rect key="frame" x="16" y="455" width="361" height="362"/>
+                                <rect key="frame" x="16" y="455.66666666666674" width="361" height="362.33333333333326"/>
                                 <color key="backgroundColor" systemColor="systemYellowColor"/>
-                                <constraints>
-                                    <constraint firstAttribute="width" secondItem="Sen-xS-Cfa" secondAttribute="height" multiplier="361:362" id="b6a-5B-i3a"/>
-                                </constraints>
                             </view>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
